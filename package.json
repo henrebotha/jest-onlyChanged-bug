@@ -1,0 +1,10 @@
+{
+  "name": "jest-onlyChanged-bug",
+  "version": "1.0.0",
+  "description": "Reproduction repo for Jest --onlyChanged bug.",
+  "main": "index.js",
+  "repository": "https://github.com/henrebotha/jest-onlyChanged-bug",
+  "author": "Henré Botha",
+  "license": "MIT",
+  "private": false
+}
